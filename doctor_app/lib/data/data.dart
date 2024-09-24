@@ -16,6 +16,11 @@ class Data {
       icon: LineIcons.child,
     ),
     Category(
+      title: "Pediateric",
+      doctorsNumber: 8,
+      icon: LineIcons.child,
+    ),
+    Category(
       title: "Dermatology",
       doctorsNumber: 7,
       icon: Icons.line_style,
